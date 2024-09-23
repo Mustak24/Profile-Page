@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Must_ak_khan</title>
+        <title>About</title>
       </Head>
       <div className="relative"></div>
     </>
